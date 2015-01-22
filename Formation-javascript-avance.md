@@ -1,4 +1,4 @@
-# Formation Javascript Avancé 2
+# Formation Javascript Avancé 3
 
 ## Les compétences que valide cette formation
 
