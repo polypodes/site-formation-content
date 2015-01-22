@@ -1,4 +1,4 @@
-# Formation Javascript Avancé 31
+# Formation Javascript Avancé
 
 ## Les compétences que valide cette formation
 
