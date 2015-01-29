@@ -1,4 +1,4 @@
-# Initiation à l'Intégration Web Avancé: HTML/CSS 2
+# Initiation à l'Intégration Web Avancé: HTML/CSS
 
 ## Les compétences que valide cette formation
 
@@ -16,7 +16,6 @@
 - Tirer parti des Google Chrome DevTools pour l'intégration
 - jQuery the Right Way: Do's & Dont's avec la plus populaire des librairies Js
 - Connaître un outil pour automatiser le test de rendu sous différentes plateformes
-- lolilol
 
 ## Durée
 
