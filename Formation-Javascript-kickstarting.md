@@ -1,4 +1,4 @@
-# Formation Javascript : Kickstarting 123
+# Formation Javascript : Kickstarting
 
 ## Les compétences que valide cette formation
 
