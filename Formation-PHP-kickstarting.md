@@ -1,4 +1,4 @@
-# Formation PHP : Kickstarting hello world
+# Formation PHP : Kickstarting
 
 ## Les compétences que valide cette formation
 
