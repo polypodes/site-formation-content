@@ -1,4 +1,4 @@
-# Formation PHP : Kickstarting yoyoya
+# Formation PHP : Kickstarting yoyoyayi
 
 ## Les compétences que valide cette formation
 
