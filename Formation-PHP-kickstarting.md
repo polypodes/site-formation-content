@@ -1,4 +1,4 @@
-# Formation PHP : Kickstarting yala
+# Formation PHP : Kickstarting
 
 ## Les compétences que valide cette formation
 
