@@ -3,7 +3,7 @@
 En vertu de l’article 6 de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l’économie numérique, il est précisé aux utilisateurs du site university.lespolypodes.com l’identité des différents intervenants dans le cadre de sa réalisation et de son suivi :
 
 ## Intervenants
-Responsable de publication et maintenance du site internet: 
+Responsable de publication et maintenance du site internet:  <br>
 Antonio Fidalgo, <br>
 5, Boulevard Vincent Gâche, <br>
 44 200 Nantes, <br>
@@ -11,6 +11,7 @@ Antonio Fidalgo, <br>
 
 ## Hébergement 
 SAS OVH,
+
 2 rue Kellermann, <br>
 59100 Roubaix, <br>
 France, <br>
