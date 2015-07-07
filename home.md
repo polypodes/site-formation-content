@@ -1,8 +1,7 @@
-# Home
-## Lorem ipsum
+# Aux Polypodes nous aimons vous former
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum modi necessitatibus, molestias nobis, accusantium placeat magnam nihil autem provident deserunt distinctio explicabo tempora nulla natus fugiat nam ratione ex aliquam.
+##Pourquoi vous proposer des formations ?
 
-### Lorem ipsum 2
+###L’ADN de L’agence
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. At, voluptas, incidunt! Deserunt quam maiores asperiores fuga sunt, exercitationem similique temporibus corporis quisquam cumque, ad esse ipsum voluptate quidem facilis in.
+Au quotidien nous découvrons et mettons en oeuvres de nouvelles technologies, explorons de nouveaux processus de productions, et optimisons nos méthodes de suivi. Cette remise en cause continuelle nous oblige à suivre nous même tous types de formations, en ligne, en interne, et en apport externe. 
