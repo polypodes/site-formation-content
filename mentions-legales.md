@@ -10,7 +10,7 @@ Antonio Fidalgo, <br>
 [lespolypodes.com](http://lespolypodes.com)
 
 ## Hébergement 
-SAS OVH,\s\s
+SAS OVH,--
 2 rue Kellermann, <br>
 59100 Roubaix, <br>
 France, <br>
