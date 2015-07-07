@@ -12,6 +12,6 @@ L’enrichissement en interne nous amène à réaliser régulièrement des ateli
 Nous accueillons régulièrement des Brown Bag Lunches, et nous nous formons régulièrement à de plus grosses solutions. Nous pensons que l’apprentissage et la remise en cause des acquis, sont nécessaires pour que le travail reste un plaisir par le renouvellement des défis quotidiens.
 
 
-### Lorem ipsum 2 1 3
+### L’état d’esprit d’une équipe
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. At, voluptas, incidunt! Deserunt quam maiores asperiores fuga sunt, exercitationem similique temporibus corporis quisquam cumque, ad esse ipsum voluptate quidem facilis in.
